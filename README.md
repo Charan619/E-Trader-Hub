@@ -21,3 +21,11 @@ E-Trader Hub is your comprehensive solution for planning and succeeding in your 
    E-Trader Hub includes a graph illustrating important stock market events. This feature enables users to analyze past incidents and make informed decisions during their actual stock trading journey, especially when market conditions are less favorable.
 
 E-Trader Hub is more than just a tool; it's a companion in your stock market journey, offering the resources and insights needed to navigate the complexities of the financial landscape.
+
+### Visualisation Dashboard
+
+<div align="center">
+    <img src="images/visual2.png" alt="Vis2">
+    <img src="images/visual3.png" alt="Vis3">
+    <br>
+</div>
